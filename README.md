@@ -1,4 +1,4 @@
-# ✈️ Galactic Airlines – Containerized Flight Management on AWS EKS
+# ✈️ AIRLINE BOOKING APPLICATION
 
 > A full-stack flight management web application with a **Frontend (Nginx)**, **Backend (Flask/Python)**, and **Database (MySQL)** — each containerized with Docker, deployed on **Amazon EKS**, and automated via a **Jenkins CI/CD pipeline**.
 
